@@ -1,0 +1,2 @@
+rootProject.name='ThreadAnimAuto'
+include ':app'
